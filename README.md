@@ -6,7 +6,7 @@ To conduct the experiments on the two datasets by Building a K-nearest neighbor 
 
 ## classes classification
 ## Description
-a) Solution 1:
+
 
 * Implementantion of the K-Nearest Neighboor algorithm on Titanic dataset
 * Randomly partition each dataset into two parts i.e 80 - 20 sets.
@@ -22,7 +22,7 @@ a) Solution 1:
 ## Context
 a) Dataset 1 On April 15, 1912, the largest passenger liner ever made collided with an iceberg during her maiden voyage. When the Titanic sank it killed 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships. One of the reasons that the shipwreck resulted in such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others.
 
-## Titanic
+## a) Titanic
 
 ## Data Features
 The dataset1 has the following features: The titanic.csv file contains data for 887 of the real Titanic passengers. Each row represents one person. The columns describe different attributes about the person including:
