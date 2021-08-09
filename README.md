@@ -33,7 +33,7 @@ The dataset1 has the following features: The titanic.csv file contains data for 
 * sex
 * fare
 *Embarked 
-## b) Dataset 2 The "spam" concept is diverse: advertisements for products/web sites, make money fast schemes, chain letters, pornography
+## b) Spam or ham
 
 The dataset is collection of spam e-mails came from our postmaster and individuals who had filed spam. The collection of non-spam e-mails came from filed work and personal e-mails
 
